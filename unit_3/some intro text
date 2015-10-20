@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Napoleon's Most Excellent CatGuesting</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+
+	<h1>Napoleon Sightings</h1>
+
+	<p>Home of Napoleon</p>
+
+	<img src="images/cool-polo_square.jpb" alt="Photo of Napoleon" title="I am most DEFINITELY the coolest cat">
+
+	<p>Hi! My name's Napoleon (Polo for short). I live in Cambridge, MA near where the bike path crosses Mass Ave. I am an indoor / outdoor cat who LOVES adventures!</p>
+
+	<p>I love meeting new people &ndash; friends are the best! I believe that the best way to make friends is to come up and rub your face on someone's ankle and meow (for cats) or scratch someone behind the ears or under the chin (for humans).</p>
+
+	<p>I also love snacks! ...But please don't feed them to me. Despite my roaming ways, I have a lovely human that I go home to every night for food. She appreciates that you only give me love and head rubs, so she can make sure I come home and get any medication I might need (and so she can keep track of me!)</p>
+
+	<p>My human LOVES to hear about my adventures, so if you have a good story or photo to share, please click here! (My human doesn't understand my meowing so I need your help to tell her what I do all day.)</p>
+
+	<p>If there's something more urgent, of course, please call the phone number on my collar. You can also contact me at napoleonsightings@gmail.com.</p>
+	
+</body>
+
+</html>
