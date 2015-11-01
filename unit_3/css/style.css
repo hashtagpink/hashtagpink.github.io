@@ -1,12 +1,13 @@
-/*html{
-	background: url(images/cool-polo.jpg);
+/*html {
+	background: url("../images/cool-polo.jpg");
 		background-color: #34495e;
 	background-size: cover;
 }*/
 
 body {
 	background-color: #7f8c8d;
-	font-family: "PT Sans", Helvetica, sans-serif;
+	font-family: Merriweather, Helvetica, sans-serif;
+	line-height: 1.4em;
 	padding: 20px;
 }
 
@@ -15,18 +16,24 @@ header, footer {
 	width: 650px;
 	background-color: #2c3e50;
 	padding: 20px;
-	line-height: 18px;
+	margin: 0 auto;
 }
 
 section {
 	width: 650px;
 	background-color: #34495e;
 	padding: 20px;
+	margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: "Droid Sans", sans-serif;
+	color: #bdc3c7;
 }
 
 h1 {
 	text-transform: uppercase;
-	color: #f1c40f;
+	color: #292229;
 }
 
 p, ul {
@@ -57,8 +64,8 @@ hr {
 	font-style: italic;
 	width: 100%;
 	margin: 20px;
-
 }
+
 
 .button {
 	background: #f39c12;
@@ -77,4 +84,9 @@ hr {
 	border-radius: 3px;
 	border-style: outset;
 	border-color: #d35400;
+}
+
+.button-link {
+	text-decoration: none;
+	font-family: Raleway, sans-serif;
 }
