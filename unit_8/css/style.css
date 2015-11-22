@@ -37,6 +37,11 @@ p, ul {
 	color: #ecf0f1;
 	margin: 1em;
 	font-size: 1em;
+	line-height: 1.5em;
+}
+
+ul {
+    list-style-type: circle;
 }
 
 img {
