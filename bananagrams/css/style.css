@@ -67,6 +67,9 @@ hr {
 html, body {
     background-color: #7f8c8d;
 	font-size: 16px;
+		-moz-text-size-adjust: auto;
+	-webkit-text-size-adjust: auto;
+	-ms-text-size-adjust: auto;
 }
 
 header, footer {
